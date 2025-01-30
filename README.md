@@ -1,0 +1,1 @@
+Algorithms and data structures are key to writing efficient code and building good software. This repository focuses on demonstrating how to implement common data structures and algorithms in a clear and easy-to-understand way.
